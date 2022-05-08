@@ -1,13 +1,13 @@
 
-#  Cineflix Website Clone
+#  Panda Login Page
 
-Clone of cineflix website
+Panda design login page when hover on submit button upper paws move and eye ball blink
 
 
 
 ## 💻 Demo
 
-[Cineflix Clone Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
+[Website Link](https://panda-login-page-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Clone of cineflix website
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Cineflix-Website-clone.git
+  git clone https://github.com/Tushar-goyal-2712/Panda-Login-Page.git
 ```
 
 Install node_module dependencies
